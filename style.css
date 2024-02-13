@@ -1,0 +1,47 @@
+.navbar1{
+    background-color: black;
+    color: white;
+    padding:2px ;
+    text-align:center;
+}
+.foodcontainer__one,.foodcontainer__two,.foodcontainer__three,.foodcontainer__four{
+    background-color: transparent;
+    padding: 5px;
+    display: inline-block;
+    border: ridge black 3px;
+    
+
+}
+.foodcontainer{
+    text-align: center;
+    margin: 20px;
+}
+.body{
+    background-color: black;
+    color: white;
+    text-align: center;
+   
+}
+.body__title{
+    text-align: center;
+    display: inline-block;
+}
+.footer{
+    text-align: center;
+   background-color: black;
+   
+}
+button{
+    background-color: black;
+    color: white;
+    border: none;
+}
+.one{
+    background-color: yellow;
+    color: black;
+    width: 500px;
+}
+button:hover{
+    color: darkred;
+    background-color: pink;
+}
